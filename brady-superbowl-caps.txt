@@ -1,0 +1,17 @@
+TOM BRADY SUPER BOWL WINS - CAP HIT PERCENTAGES
+================================================
+
+Year  Team  Cap Hit      Salary Cap    Cap %
+----  ----  -----------  -----------  ------
+2021  TB    $12,150,000  $182,500,000   6.66%
+2019  NE    $21,542,000  $188,200,000  11.45%
+2017  NE    $14,000,000  $167,000,000   8.38%
+2015  NE    $14,000,000  $143,280,000   9.77%
+
+AVERAGE: 9.07%
+
+Notes:
+- Data only goes back to 2010
+- Missing 3 earlier wins: 2002, 2004, 2005 (would be even lower %)
+- Brady took team-friendly deals his entire career
+- Never won a Super Bowl with cap hit above 12%
