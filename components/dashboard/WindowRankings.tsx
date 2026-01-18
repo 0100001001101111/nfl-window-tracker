@@ -48,8 +48,8 @@ function getCapPctForYear(
   const isFifthYear = capHit.isFifthYearOption || false;
 
   let color = "text-text-primary";
-  if (pct >= 15) color = "text-window-closed";
-  else if (pct >= 13) color = "text-window-caution";
+  if (pct >= 12) color = "text-window-closed";
+  else if (pct >= 10) color = "text-window-caution";
 
   const capHitM = (capHit.amount / 1_000_000).toFixed(1);
   const tooltip = `$${capHitM}M (${pct.toFixed(2)}%)${isFifthYear ? " - 5th year option" : ""}`;
@@ -206,8 +206,8 @@ export function WindowRankings() {
         <div className="flex flex-wrap items-center gap-3 mt-4 text-xs font-mono text-text-muted">
           <span>* = 5th year option</span>
           <span>FA = Free agent</span>
-          <span className="text-window-caution">Orange = 13%+</span>
-          <span className="text-window-closed">Red = 15%+</span>
+          <span className="text-window-caution">Orange = 10%+</span>
+          <span className="text-window-closed">Red = 12%+</span>
         </div>
       </CardContent>
     </Card>
