@@ -75,18 +75,18 @@ export function WindowRankings() {
         </span>
       </CardHeader>
       <CardContent className="overflow-x-auto">
-        <Table className="min-w-[800px]">
+        <Table>
           <TableHeader>
             <TableRow hover={false}>
               <TableHead className="w-8">RK</TableHead>
               <TableHead className="w-16">TEAM</TableHead>
-              <TableHead>QB</TableHead>
-              <TableHead align="center" className="w-16">RECORD</TableHead>
-              <TableHead align="right" className="w-16">2025 CAP</TableHead>
-              <TableHead align="right" className="w-14 hidden md:table-cell">2026</TableHead>
-              <TableHead align="right" className="w-14 hidden lg:table-cell">2027</TableHead>
-              <TableHead align="center" className="w-20">ZONE</TableHead>
-              <TableHead align="right" className="w-14">SCORE</TableHead>
+              <TableHead className="hidden sm:table-cell">QB</TableHead>
+              <TableHead align="center" className="w-16 hidden lg:table-cell">RECORD</TableHead>
+              <TableHead align="right" className="w-12">'25</TableHead>
+              <TableHead align="right" className="w-12">'26</TableHead>
+              <TableHead align="right" className="w-12">'27</TableHead>
+              <TableHead align="center" className="w-20 hidden sm:table-cell">ZONE</TableHead>
+              <TableHead align="right" className="w-14 hidden md:table-cell">SCORE</TableHead>
             </TableRow>
           </TableHeader>
           <TableBody>
@@ -136,12 +136,12 @@ export function WindowRankings() {
                       </span>
                     </div>
                   </TableCell>
-                  <TableCell className="text-text-secondary text-sm truncate max-w-[100px]">
+                  <TableCell className="text-text-secondary text-sm truncate max-w-[100px] hidden sm:table-cell">
                     {contract.playerName}
                   </TableCell>
 
                   {/* 2025 Record */}
-                  <TableCell align="center">
+                  <TableCell align="center" className="hidden lg:table-cell">
                     <span
                       className={`font-mono text-sm font-bold ${recordColor}`}
                       title={seasonResult ? `${seasonResult.coachName}${seasonResult.madePlayoffs ? " | Playoffs" : ""}` : ""}
@@ -161,7 +161,7 @@ export function WindowRankings() {
                   </TableCell>
 
                   {/* 2026 Cap % */}
-                  <TableCell align="right" className="hidden md:table-cell">
+                  <TableCell align="right">
                     <span
                       className={`font-mono text-sm ${cap2026.pct !== null && cap2026.pct >= 13 ? "font-bold" : ""} ${cap2026.color}`}
                       title={cap2026.tooltip}
@@ -171,7 +171,7 @@ export function WindowRankings() {
                   </TableCell>
 
                   {/* 2027 Cap % */}
-                  <TableCell align="right" className="hidden lg:table-cell">
+                  <TableCell align="right">
                     <span
                       className={`font-mono text-sm ${cap2027.pct !== null && cap2027.pct >= 13 ? "font-bold" : ""} ${cap2027.color}`}
                       title={cap2027.tooltip}
@@ -180,7 +180,7 @@ export function WindowRankings() {
                     </span>
                   </TableCell>
 
-                  <TableCell align="center">
+                  <TableCell align="center" className="hidden sm:table-cell">
                     <Badge
                       variant={getZoneBadgeVariant(score.windowZone.zone)}
                       size="sm"
@@ -188,7 +188,7 @@ export function WindowRankings() {
                       {score.windowZone.zone}
                     </Badge>
                   </TableCell>
-                  <TableCell align="right">
+                  <TableCell align="right" className="hidden md:table-cell">
                     <span
                       className="font-mono font-bold text-text-primary text-sm"
                       title={scoreTooltip}
