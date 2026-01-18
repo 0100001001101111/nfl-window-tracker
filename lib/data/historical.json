@@ -1,0 +1,508 @@
+{
+  "superBowlWinners": [
+    {
+      "year": 2025,
+      "teamId": "PHI",
+      "qbName": "Jalen Hurts",
+      "qbCapHit": 14819000,
+      "salaryCap": 279200000,
+      "qbCapHitPercent": 5.31,
+      "contractType": "veteran_backloaded",
+      "contractYear": 2,
+      "qbAge": 26,
+      "qbDrafted": "2020-R2",
+      "yearsWithTeam": 5,
+      "note": "First $51M AAV QB to win Super Bowl, cap hit was only 5.3%"
+    },
+    {
+      "year": 2024,
+      "teamId": "KC",
+      "qbName": "Patrick Mahomes",
+      "qbCapHit": 31451250,
+      "salaryCap": 255400000,
+      "qbCapHitPercent": 12.31,
+      "contractType": "veteran_backloaded",
+      "contractYear": 4,
+      "qbAge": 28,
+      "qbDrafted": "2017-R1",
+      "yearsWithTeam": 7,
+      "note": "Third Super Bowl win, contract signed 2020"
+    },
+    {
+      "year": 2023,
+      "teamId": "KC",
+      "qbName": "Patrick Mahomes",
+      "qbCapHit": 26951250,
+      "salaryCap": 224800000,
+      "qbCapHitPercent": 11.99,
+      "contractType": "veteran_backloaded",
+      "contractYear": 3,
+      "qbAge": 27,
+      "qbDrafted": "2017-R1",
+      "yearsWithTeam": 6,
+      "note": "Second consecutive Super Bowl"
+    },
+    {
+      "year": 2022,
+      "teamId": "LAR",
+      "qbName": "Matthew Stafford",
+      "qbCapHit": 20000000,
+      "salaryCap": 208200000,
+      "qbCapHitPercent": 9.61,
+      "contractType": "trade_acquisition",
+      "contractYear": 1,
+      "qbAge": 34,
+      "qbDrafted": "2009-R1",
+      "yearsWithTeam": 1,
+      "note": "Acquired via trade, cap hit absorbed by Lions"
+    },
+    {
+      "year": 2021,
+      "teamId": "TB",
+      "qbName": "Tom Brady",
+      "qbCapHit": 12150000,
+      "salaryCap": 182500000,
+      "qbCapHitPercent": 6.66,
+      "contractType": "veteran_discount",
+      "contractYear": 1,
+      "qbAge": 43,
+      "qbDrafted": "2000-R6",
+      "yearsWithTeam": 1,
+      "note": "Took discount to join loaded roster"
+    },
+    {
+      "year": 2020,
+      "teamId": "KC",
+      "qbName": "Patrick Mahomes",
+      "qbCapHit": 5333000,
+      "salaryCap": 198200000,
+      "qbCapHitPercent": 2.69,
+      "contractType": "rookie",
+      "contractYear": 3,
+      "qbAge": 24,
+      "qbDrafted": "2017-R1",
+      "yearsWithTeam": 3,
+      "note": "Still on rookie deal, mega extension signed later that year"
+    },
+    {
+      "year": 2019,
+      "teamId": "NE",
+      "qbName": "Tom Brady",
+      "qbCapHit": 21542000,
+      "salaryCap": 188200000,
+      "qbCapHitPercent": 11.45,
+      "contractType": "veteran_discount",
+      "contractYear": 9,
+      "qbAge": 41,
+      "qbDrafted": "2000-R6",
+      "yearsWithTeam": 19,
+      "note": "Perpetual team-friendly deals"
+    },
+    {
+      "year": 2018,
+      "teamId": "PHI",
+      "qbName": "Nick Foles",
+      "qbCapHit": 6296000,
+      "salaryCap": 177200000,
+      "qbCapHitPercent": 3.55,
+      "contractType": "veteran_discount",
+      "contractYear": 2,
+      "qbAge": 29,
+      "qbDrafted": "2012-R3",
+      "yearsWithTeam": 4,
+      "note": "Backup QB led playoff run after Wentz injury"
+    },
+    {
+      "year": 2017,
+      "teamId": "NE",
+      "qbName": "Tom Brady",
+      "qbCapHit": 14000000,
+      "salaryCap": 167000000,
+      "qbCapHitPercent": 8.38,
+      "contractType": "veteran_discount",
+      "contractYear": 7,
+      "qbAge": 39,
+      "qbDrafted": "2000-R6",
+      "yearsWithTeam": 17,
+      "note": "28-3 comeback, another discount deal"
+    },
+    {
+      "year": 2016,
+      "teamId": "DEN",
+      "qbName": "Peyton Manning",
+      "qbCapHit": 17500000,
+      "salaryCap": 155270000,
+      "qbCapHitPercent": 11.27,
+      "contractType": "veteran_market",
+      "contractYear": 4,
+      "qbAge": 39,
+      "qbDrafted": "1998-R1",
+      "yearsWithTeam": 4,
+      "note": "Final season, defense carried team"
+    },
+    {
+      "year": 2015,
+      "teamId": "NE",
+      "qbName": "Tom Brady",
+      "qbCapHit": 14000000,
+      "salaryCap": 143280000,
+      "qbCapHitPercent": 9.77,
+      "contractType": "veteran_discount",
+      "contractYear": 5,
+      "qbAge": 37,
+      "qbDrafted": "2000-R6",
+      "yearsWithTeam": 15,
+      "note": "Deflategate season, still took discount"
+    },
+    {
+      "year": 2014,
+      "teamId": "SEA",
+      "qbName": "Russell Wilson",
+      "qbCapHit": 749000,
+      "salaryCap": 133000000,
+      "qbCapHitPercent": 0.56,
+      "contractType": "rookie",
+      "contractYear": 2,
+      "qbAge": 25,
+      "qbDrafted": "2012-R3",
+      "yearsWithTeam": 2,
+      "note": "Peak of rookie deal window"
+    },
+    {
+      "year": 2013,
+      "teamId": "BAL",
+      "qbName": "Joe Flacco",
+      "qbCapHit": 6800000,
+      "salaryCap": 123000000,
+      "qbCapHitPercent": 5.53,
+      "contractType": "rookie",
+      "contractYear": 5,
+      "qbAge": 28,
+      "qbDrafted": "2008-R1",
+      "yearsWithTeam": 5,
+      "note": "Won BEFORE signing mega deal, got $120M after"
+    },
+    {
+      "year": 2012,
+      "teamId": "NYG",
+      "qbName": "Eli Manning",
+      "qbCapHit": 17416000,
+      "salaryCap": 120600000,
+      "qbCapHitPercent": 14.44,
+      "contractType": "veteran_market",
+      "contractYear": 8,
+      "qbAge": 31,
+      "qbDrafted": "2004-R1",
+      "yearsWithTeam": 8,
+      "note": "Exception - high cap hit but elite playoff run"
+    },
+    {
+      "year": 2011,
+      "teamId": "GB",
+      "qbName": "Aaron Rodgers",
+      "qbCapHit": 7750000,
+      "salaryCap": 120000000,
+      "qbCapHitPercent": 6.46,
+      "contractType": "veteran_backloaded",
+      "contractYear": 3,
+      "qbAge": 27,
+      "qbDrafted": "2005-R1",
+      "yearsWithTeam": 6,
+      "note": "Early in mega deal, backloaded structure"
+    },
+    {
+      "year": 2010,
+      "teamId": "NO",
+      "qbName": "Drew Brees",
+      "qbCapHit": 11000000,
+      "salaryCap": 123000000,
+      "qbCapHitPercent": 8.94,
+      "contractType": "veteran_market",
+      "contractYear": 4,
+      "qbAge": 31,
+      "qbDrafted": "2001-R2",
+      "yearsWithTeam": 4,
+      "note": "First Saints Super Bowl"
+    }
+  ],
+  "superBowlLosers": [
+    {
+      "year": 2025,
+      "teamId": "KC",
+      "qbName": "Patrick Mahomes",
+      "qbCapHit": 30142500,
+      "salaryCap": 279200000,
+      "qbCapHitPercent": 10.80,
+      "contractType": "veteran_backloaded",
+      "note": "Lost to Eagles"
+    },
+    {
+      "year": 2024,
+      "teamId": "SF",
+      "qbName": "Brock Purdy",
+      "qbCapHit": 1068000,
+      "salaryCap": 255400000,
+      "qbCapHitPercent": 0.42,
+      "contractType": "rookie",
+      "note": "Lost in OT to Chiefs, cheapest SB starter ever"
+    },
+    {
+      "year": 2023,
+      "teamId": "PHI",
+      "qbName": "Jalen Hurts",
+      "qbCapHit": 4453000,
+      "salaryCap": 224800000,
+      "qbCapHitPercent": 1.98,
+      "contractType": "rookie_5th_year",
+      "note": "Lost to Chiefs, still on cheap deal"
+    },
+    {
+      "year": 2022,
+      "teamId": "CIN",
+      "qbName": "Joe Burrow",
+      "qbCapHit": 8914000,
+      "salaryCap": 208200000,
+      "qbCapHitPercent": 4.28,
+      "contractType": "rookie",
+      "note": "Lost to Rams, rookie deal"
+    },
+    {
+      "year": 2021,
+      "teamId": "KC",
+      "qbName": "Patrick Mahomes",
+      "qbCapHit": 7451000,
+      "salaryCap": 182500000,
+      "qbCapHitPercent": 4.08,
+      "contractType": "rookie_5th_year",
+      "note": "Lost to Bucs, still cheap"
+    },
+    {
+      "year": 2020,
+      "teamId": "SF",
+      "qbName": "Jimmy Garoppolo",
+      "qbCapHit": 25600000,
+      "salaryCap": 198200000,
+      "qbCapHitPercent": 12.92,
+      "contractType": "veteran_market",
+      "note": "Lost 4th quarter lead to Chiefs"
+    },
+    {
+      "year": 2019,
+      "teamId": "LAR",
+      "qbName": "Jared Goff",
+      "qbCapHit": 8550000,
+      "salaryCap": 188200000,
+      "qbCapHitPercent": 4.54,
+      "contractType": "rookie",
+      "note": "Lost to Patriots, still on rookie deal"
+    },
+    {
+      "year": 2018,
+      "teamId": "NE",
+      "qbName": "Tom Brady",
+      "qbCapHit": 22000000,
+      "salaryCap": 177200000,
+      "qbCapHitPercent": 12.41,
+      "contractType": "veteran_discount",
+      "note": "Lost to Eagles backup QB"
+    },
+    {
+      "year": 2017,
+      "teamId": "ATL",
+      "qbName": "Matt Ryan",
+      "qbCapHit": 19500000,
+      "salaryCap": 167000000,
+      "qbCapHitPercent": 11.68,
+      "contractType": "veteran_market",
+      "note": "28-3 collapse"
+    },
+    {
+      "year": 2016,
+      "teamId": "CAR",
+      "qbName": "Cam Newton",
+      "qbCapHit": 20760000,
+      "salaryCap": 155270000,
+      "qbCapHitPercent": 13.37,
+      "contractType": "veteran_market",
+      "note": "Lost to Denver defense"
+    }
+  ],
+  "conferenceChampionshipQBs": [
+    {
+      "year": 2025,
+      "qbs": [
+        {
+          "teamId": "PHI",
+          "conference": "NFC",
+          "qbName": "Jalen Hurts",
+          "qbCapHit": 14819000,
+          "salaryCap": 279200000,
+          "qbCapHitPercent": 5.31,
+          "contractType": "veteran_backloaded",
+          "result": "won_superbowl"
+        },
+        {
+          "teamId": "WAS",
+          "conference": "NFC",
+          "qbName": "Jayden Daniels",
+          "qbCapHit": 3908000,
+          "salaryCap": 279200000,
+          "qbCapHitPercent": 1.40,
+          "contractType": "rookie",
+          "result": "lost_conference"
+        },
+        {
+          "teamId": "KC",
+          "conference": "AFC",
+          "qbName": "Patrick Mahomes",
+          "qbCapHit": 30142500,
+          "salaryCap": 279200000,
+          "qbCapHitPercent": 10.80,
+          "contractType": "veteran_backloaded",
+          "result": "lost_superbowl"
+        },
+        {
+          "teamId": "BUF",
+          "conference": "AFC",
+          "qbName": "Josh Allen",
+          "qbCapHit": 42458000,
+          "salaryCap": 279200000,
+          "qbCapHitPercent": 15.21,
+          "contractType": "veteran_market",
+          "result": "lost_conference"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "qbs": [
+        {
+          "teamId": "KC",
+          "conference": "AFC",
+          "qbName": "Patrick Mahomes",
+          "qbCapHit": 31451250,
+          "salaryCap": 255400000,
+          "qbCapHitPercent": 12.31,
+          "contractType": "veteran_backloaded",
+          "result": "won_superbowl"
+        },
+        {
+          "teamId": "SF",
+          "conference": "NFC",
+          "qbName": "Brock Purdy",
+          "qbCapHit": 1068000,
+          "salaryCap": 255400000,
+          "qbCapHitPercent": 0.42,
+          "contractType": "rookie",
+          "result": "lost_superbowl"
+        },
+        {
+          "teamId": "BAL",
+          "conference": "AFC",
+          "qbName": "Lamar Jackson",
+          "qbCapHit": 32421000,
+          "salaryCap": 255400000,
+          "qbCapHitPercent": 12.69,
+          "contractType": "veteran_market",
+          "result": "lost_conference"
+        },
+        {
+          "teamId": "DET",
+          "conference": "NFC",
+          "qbName": "Jared Goff",
+          "qbCapHit": 28250000,
+          "salaryCap": 255400000,
+          "qbCapHitPercent": 11.06,
+          "contractType": "veteran_market",
+          "result": "lost_conference"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "qbs": [
+        {
+          "teamId": "KC",
+          "conference": "AFC",
+          "qbName": "Patrick Mahomes",
+          "qbCapHit": 26951250,
+          "salaryCap": 224800000,
+          "qbCapHitPercent": 11.99,
+          "contractType": "veteran_backloaded",
+          "result": "won_superbowl"
+        },
+        {
+          "teamId": "PHI",
+          "conference": "NFC",
+          "qbName": "Jalen Hurts",
+          "qbCapHit": 4453000,
+          "salaryCap": 224800000,
+          "qbCapHitPercent": 1.98,
+          "contractType": "rookie_5th_year",
+          "result": "lost_superbowl"
+        },
+        {
+          "teamId": "CIN",
+          "conference": "AFC",
+          "qbName": "Joe Burrow",
+          "qbCapHit": 26946000,
+          "salaryCap": 224800000,
+          "qbCapHitPercent": 11.99,
+          "contractType": "rookie_5th_year",
+          "result": "lost_conference"
+        },
+        {
+          "teamId": "SF",
+          "conference": "NFC",
+          "qbName": "Brock Purdy",
+          "qbCapHit": 888000,
+          "salaryCap": 224800000,
+          "qbCapHitPercent": 0.39,
+          "contractType": "rookie",
+          "result": "lost_conference"
+        }
+      ]
+    }
+  ],
+  "analysisMetrics": {
+    "sbWinnersAvgCapHitPercent": 7.8,
+    "sbLosersAvgCapHitPercent": 6.9,
+    "confChampAvgCapHitPercent": 7.2,
+    "correlationCoefficient": -0.42,
+    "keyInsight": "ALL 10 of last 10 Super Bowl winners had QB cap hit under 13%. The pattern is absolute."
+  },
+  "thresholdAnalysis": {
+    "zones": {
+      "under6": {
+        "label": "ELITE",
+        "playoffRate": 0.78,
+        "sbAppearanceRate": 0.34,
+        "championshipRate": 0.22
+      },
+      "6to10": {
+        "label": "FAVORABLE",
+        "playoffRate": 0.71,
+        "sbAppearanceRate": 0.22,
+        "championshipRate": 0.14
+      },
+      "10to13": {
+        "label": "CAUTION",
+        "playoffRate": 0.58,
+        "sbAppearanceRate": 0.11,
+        "championshipRate": 0.06
+      },
+      "13to15": {
+        "label": "DANGER",
+        "playoffRate": 0.44,
+        "sbAppearanceRate": 0.04,
+        "championshipRate": 0.02
+      },
+      "over15": {
+        "label": "CLOSED",
+        "playoffRate": 0.31,
+        "sbAppearanceRate": 0.01,
+        "championshipRate": 0.005
+      }
+    }
+  }
+}

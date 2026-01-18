@@ -1,0 +1,31 @@
+{
+  "historical": [
+    { "year": 2010, "cap": 123000000 },
+    { "year": 2011, "cap": 120000000 },
+    { "year": 2012, "cap": 120600000 },
+    { "year": 2013, "cap": 123000000 },
+    { "year": 2014, "cap": 133000000 },
+    { "year": 2015, "cap": 143280000 },
+    { "year": 2016, "cap": 155270000 },
+    { "year": 2017, "cap": 167000000 },
+    { "year": 2018, "cap": 177200000 },
+    { "year": 2019, "cap": 188200000 },
+    { "year": 2020, "cap": 198200000 },
+    { "year": 2021, "cap": 182500000, "note": "COVID reduction" },
+    { "year": 2022, "cap": 208200000 },
+    { "year": 2023, "cap": 224800000 },
+    { "year": 2024, "cap": 255400000 },
+    { "year": 2025, "cap": 279200000, "note": "Official NFL/NFLPA figure" }
+  ],
+  "projected": [
+    { "year": 2026, "cap": 303000000, "growthRate": 0.085 },
+    { "year": 2027, "cap": 329000000, "growthRate": 0.086 },
+    { "year": 2028, "cap": 357000000, "growthRate": 0.085 },
+    { "year": 2029, "cap": 387000000, "growthRate": 0.084 },
+    { "year": 2030, "cap": 420000000, "growthRate": 0.085 }
+  ],
+  "assumptions": {
+    "baseGrowthRate": 0.085,
+    "source": "Historical average 2022-2025, adjusted for new TV deals starting 2023"
+  }
+}

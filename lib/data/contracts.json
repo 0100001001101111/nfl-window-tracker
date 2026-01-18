@@ -1,0 +1,886 @@
+{
+  "qbContracts": [
+    {
+      "playerId": "kyler-murray",
+      "playerName": "Kyler Murray",
+      "teamId": "ARI",
+      "contractType": "veteran_backloaded",
+      "totalValue": 230500000,
+      "aav": 46100000,
+      "guaranteedMoney": 160000000,
+      "guaranteedAtSigning": 103300000,
+      "signedDate": "2022-07-21",
+      "yearsTotal": 5,
+      "yearsRemaining": 3,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 33700000, "baseSalary": 19717000, "signingBonus": 7183000, "otherBonuses": 6800000, "isVoidYear": false },
+        { "year": 2026, "amount": 42800000, "baseSalary": 28117000, "signingBonus": 7183000, "otherBonuses": 7500000, "isVoidYear": false },
+        { "year": 2027, "amount": 47500000, "baseSalary": 32817000, "signingBonus": 7183000, "otherBonuses": 7500000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.08,
+        "cpoe": 1.2,
+        "qbr": 58.4,
+        "pffGrade": 71.2,
+        "wins": 8,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "kirk-cousins",
+      "playerName": "Kirk Cousins",
+      "teamId": "ATL",
+      "contractType": "veteran_market",
+      "totalValue": 180000000,
+      "aav": 45000000,
+      "guaranteedMoney": 100000000,
+      "guaranteedAtSigning": 100000000,
+      "signedDate": "2024-03-18",
+      "yearsTotal": 4,
+      "yearsRemaining": 3,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 40000000, "baseSalary": 27500000, "signingBonus": 6250000, "otherBonuses": 6250000, "isVoidYear": false },
+        { "year": 2026, "amount": 45000000, "baseSalary": 32500000, "signingBonus": 6250000, "otherBonuses": 6250000, "isVoidYear": false },
+        { "year": 2027, "amount": 47500000, "baseSalary": 35000000, "signingBonus": 6250000, "otherBonuses": 6250000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.02,
+        "cpoe": -0.5,
+        "qbr": 51.2,
+        "pffGrade": 65.4,
+        "wins": 8,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "lamar-jackson",
+      "playerName": "Lamar Jackson",
+      "teamId": "BAL",
+      "contractType": "veteran_market",
+      "totalValue": 260000000,
+      "aav": 52000000,
+      "guaranteedMoney": 185000000,
+      "guaranteedAtSigning": 185000000,
+      "signedDate": "2023-04-27",
+      "yearsTotal": 5,
+      "yearsRemaining": 3,
+      "hasNoTradeClause": true,
+      "capHits": [
+        { "year": 2025, "amount": 43600000, "baseSalary": 28012000, "signingBonus": 9188000, "otherBonuses": 6400000, "isVoidYear": false },
+        { "year": 2026, "amount": 47588000, "baseSalary": 32000000, "signingBonus": 9188000, "otherBonuses": 6400000, "isVoidYear": false },
+        { "year": 2027, "amount": 52588000, "baseSalary": 37000000, "signingBonus": 9188000, "otherBonuses": 6400000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.21,
+        "cpoe": 3.8,
+        "qbr": 72.1,
+        "pffGrade": 85.3,
+        "wins": 12,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "josh-allen",
+      "playerName": "Josh Allen",
+      "teamId": "BUF",
+      "contractType": "veteran_market",
+      "totalValue": 330000000,
+      "aav": 55000000,
+      "guaranteedMoney": 250000000,
+      "guaranteedAtSigning": 150000000,
+      "signedDate": "2024-08-06",
+      "yearsTotal": 6,
+      "yearsRemaining": 5,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 41268000, "baseSalary": 20000000, "signingBonus": 12268000, "otherBonuses": 9000000, "isVoidYear": false },
+        { "year": 2026, "amount": 43500000, "baseSalary": 22232000, "signingBonus": 12268000, "otherBonuses": 9000000, "isVoidYear": false },
+        { "year": 2027, "amount": 51300000, "baseSalary": 30032000, "signingBonus": 12268000, "otherBonuses": 9000000, "isVoidYear": false },
+        { "year": 2028, "amount": 59800000, "baseSalary": 38532000, "signingBonus": 12268000, "otherBonuses": 9000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.19,
+        "cpoe": 4.2,
+        "qbr": 74.3,
+        "pffGrade": 88.1,
+        "wins": 13,
+        "playoffWins": 1
+      }
+    },
+    {
+      "playerId": "bryce-young",
+      "playerName": "Bryce Young",
+      "teamId": "CAR",
+      "contractType": "rookie",
+      "totalValue": 37940000,
+      "aav": 9485000,
+      "guaranteedMoney": 37940000,
+      "guaranteedAtSigning": 37940000,
+      "signedDate": "2023-05-01",
+      "yearsTotal": 4,
+      "yearsRemaining": 2,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 10360000, "baseSalary": 1990000, "signingBonus": 8370000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 12076614, "baseSalary": 3706614, "signingBonus": 8370000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 26530000, "baseSalary": 18160000, "signingBonus": 8370000, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.08,
+        "cpoe": 1.5,
+        "qbr": 62.0,
+        "pffGrade": 72.0,
+        "wins": 9,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "caleb-williams",
+      "playerName": "Caleb Williams",
+      "teamId": "CHI",
+      "contractType": "rookie",
+      "totalValue": 39486058,
+      "aav": 9871514,
+      "guaranteedMoney": 39486058,
+      "guaranteedAtSigning": 39486058,
+      "signedDate": "2024-05-10",
+      "yearsTotal": 4,
+      "yearsRemaining": 3,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 8900000, "baseSalary": 1432000, "signingBonus": 7468000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 10500000, "baseSalary": 3032000, "signingBonus": 7468000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 12100000, "baseSalary": 4632000, "signingBonus": 7468000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2028, "amount": 39000000, "baseSalary": 31532000, "signingBonus": 7468000, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.12,
+        "cpoe": 2.1,
+        "qbr": 62.8,
+        "pffGrade": 76.4,
+        "wins": 9,
+        "playoffWins": 1
+      }
+    },
+    {
+      "playerId": "joe-burrow",
+      "playerName": "Joe Burrow",
+      "teamId": "CIN",
+      "contractType": "veteran_market",
+      "totalValue": 275000000,
+      "aav": 55000000,
+      "guaranteedMoney": 219000000,
+      "guaranteedAtSigning": 146000000,
+      "signedDate": "2023-09-10",
+      "yearsTotal": 5,
+      "yearsRemaining": 4,
+      "hasNoTradeClause": true,
+      "capHits": [
+        { "year": 2025, "amount": 46100000, "baseSalary": 22988000, "signingBonus": 11112000, "otherBonuses": 12000000, "isVoidYear": false },
+        { "year": 2026, "amount": 51612000, "baseSalary": 28500000, "signingBonus": 11112000, "otherBonuses": 12000000, "isVoidYear": false },
+        { "year": 2027, "amount": 58112000, "baseSalary": 35000000, "signingBonus": 11112000, "otherBonuses": 12000000, "isVoidYear": false },
+        { "year": 2028, "amount": 63112000, "baseSalary": 40000000, "signingBonus": 11112000, "otherBonuses": 12000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.22,
+        "cpoe": 4.5,
+        "qbr": 75.8,
+        "pffGrade": 87.2,
+        "wins": 9,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "deshaun-watson",
+      "playerName": "Deshaun Watson",
+      "teamId": "CLE",
+      "contractType": "veteran_market",
+      "totalValue": 230000000,
+      "aav": 46000000,
+      "guaranteedMoney": 230000000,
+      "guaranteedAtSigning": 230000000,
+      "signedDate": "2022-03-18",
+      "yearsTotal": 5,
+      "yearsRemaining": 2,
+      "hasNoTradeClause": true,
+      "capHits": [
+        { "year": 2025, "amount": 72900000, "baseSalary": 46004000, "signingBonus": 9816000, "otherBonuses": 17080000, "isVoidYear": false },
+        { "year": 2026, "amount": 72896000, "baseSalary": 46000000, "signingBonus": 9816000, "otherBonuses": 17080000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": -0.08,
+        "cpoe": -1.5,
+        "qbr": 42.1,
+        "pffGrade": 55.8,
+        "wins": 3,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "dak-prescott",
+      "playerName": "Dak Prescott",
+      "teamId": "DAL",
+      "contractType": "veteran_market",
+      "totalValue": 240000000,
+      "aav": 60000000,
+      "guaranteedMoney": 231000000,
+      "guaranteedAtSigning": 231000000,
+      "signedDate": "2024-09-08",
+      "yearsTotal": 4,
+      "yearsRemaining": 4,
+      "hasNoTradeClause": true,
+      "capHits": [
+        { "year": 2025, "amount": 52900000, "baseSalary": 4328000, "signingBonus": 24072000, "otherBonuses": 24500000, "isVoidYear": false },
+        { "year": 2026, "amount": 76500000, "baseSalary": 27928000, "signingBonus": 24072000, "otherBonuses": 24500000, "isVoidYear": false },
+        { "year": 2027, "amount": 70800000, "baseSalary": 22228000, "signingBonus": 24072000, "otherBonuses": 24500000, "isVoidYear": false },
+        { "year": 2028, "amount": 80800000, "baseSalary": 32228000, "signingBonus": 24072000, "otherBonuses": 24500000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.15,
+        "cpoe": 2.8,
+        "qbr": 68.4,
+        "pffGrade": 78.5,
+        "wins": 7,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "bo-nix",
+      "playerName": "Bo Nix",
+      "teamId": "DEN",
+      "contractType": "rookie",
+      "totalValue": 18613166,
+      "aav": 4653291,
+      "guaranteedMoney": 13000000,
+      "guaranteedAtSigning": 13000000,
+      "signedDate": "2024-05-23",
+      "yearsTotal": 4,
+      "yearsRemaining": 3,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 5000000, "baseSalary": 1215000, "signingBonus": 3785000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 6200000, "baseSalary": 2415000, "signingBonus": 3785000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 7400000, "baseSalary": 3615000, "signingBonus": 3785000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2028, "amount": 27000000, "baseSalary": 23215000, "signingBonus": 3785000, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.14,
+        "cpoe": 2.4,
+        "qbr": 66.2,
+        "pffGrade": 78.8,
+        "wins": 10,
+        "playoffWins": 2
+      }
+    },
+    {
+      "playerId": "jared-goff",
+      "playerName": "Jared Goff",
+      "teamId": "DET",
+      "contractType": "veteran_backloaded",
+      "totalValue": 212000000,
+      "aav": 53000000,
+      "guaranteedMoney": 170800000,
+      "guaranteedAtSigning": 114000000,
+      "signedDate": "2024-05-01",
+      "yearsTotal": 4,
+      "yearsRemaining": 4,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 37100000, "baseSalary": 20550000, "signingBonus": 11300000, "otherBonuses": 5250000, "isVoidYear": false },
+        { "year": 2026, "amount": 47800000, "baseSalary": 31250000, "signingBonus": 11300000, "otherBonuses": 5250000, "isVoidYear": false },
+        { "year": 2027, "amount": 53000000, "baseSalary": 36450000, "signingBonus": 11300000, "otherBonuses": 5250000, "isVoidYear": false },
+        { "year": 2028, "amount": 55000000, "baseSalary": 38450000, "signingBonus": 11300000, "otherBonuses": 5250000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.23,
+        "cpoe": 5.1,
+        "qbr": 78.2,
+        "pffGrade": 89.4,
+        "wins": 15,
+        "playoffWins": 2
+      }
+    },
+    {
+      "playerId": "jordan-love",
+      "playerName": "Jordan Love",
+      "teamId": "GB",
+      "contractType": "veteran_backloaded",
+      "totalValue": 220000000,
+      "aav": 55000000,
+      "guaranteedMoney": 155000000,
+      "guaranteedAtSigning": 75000000,
+      "signedDate": "2024-07-26",
+      "yearsTotal": 4,
+      "yearsRemaining": 4,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 32500000, "baseSalary": 19750000, "signingBonus": 8750000, "otherBonuses": 4000000, "isVoidYear": false },
+        { "year": 2026, "amount": 47800000, "baseSalary": 35050000, "signingBonus": 8750000, "otherBonuses": 4000000, "isVoidYear": false },
+        { "year": 2027, "amount": 55000000, "baseSalary": 42250000, "signingBonus": 8750000, "otherBonuses": 4000000, "isVoidYear": false },
+        { "year": 2028, "amount": 57000000, "baseSalary": 44250000, "signingBonus": 8750000, "otherBonuses": 4000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.16,
+        "cpoe": 3.2,
+        "qbr": 69.8,
+        "pffGrade": 81.2,
+        "wins": 11,
+        "playoffWins": 1
+      }
+    },
+    {
+      "playerId": "cj-stroud",
+      "playerName": "C.J. Stroud",
+      "teamId": "HOU",
+      "contractType": "rookie",
+      "totalValue": 36279244,
+      "aav": 9069811,
+      "guaranteedMoney": 24000000,
+      "guaranteedAtSigning": 24000000,
+      "signedDate": "2023-06-05",
+      "yearsTotal": 4,
+      "yearsRemaining": 2,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 9900000, "baseSalary": 3428000, "signingBonus": 6472000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 11543396, "baseSalary": 5071396, "signingBonus": 6472000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 26530000, "baseSalary": 20058000, "signingBonus": 6472000, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.17,
+        "cpoe": 2.9,
+        "qbr": 70.4,
+        "pffGrade": 82.8,
+        "wins": 10,
+        "playoffWins": 1
+      }
+    },
+    {
+      "playerId": "anthony-richardson",
+      "playerName": "Anthony Richardson",
+      "teamId": "IND",
+      "contractType": "rookie",
+      "totalValue": 28580000,
+      "aav": 7145000,
+      "guaranteedMoney": 20490000,
+      "guaranteedAtSigning": 20490000,
+      "signedDate": "2023-06-01",
+      "yearsTotal": 4,
+      "yearsRemaining": 2,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 7800000, "baseSalary": 2240000, "signingBonus": 5560000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 9000000, "baseSalary": 3440000, "signingBonus": 5560000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 32000000, "baseSalary": 26440000, "signingBonus": 5560000, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.02,
+        "cpoe": -0.8,
+        "qbr": 52.1,
+        "pffGrade": 58.4,
+        "wins": 8,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "trevor-lawrence",
+      "playerName": "Trevor Lawrence",
+      "teamId": "JAX",
+      "contractType": "veteran_market",
+      "totalValue": 275000000,
+      "aav": 55000000,
+      "guaranteedMoney": 200000000,
+      "guaranteedAtSigning": 142000000,
+      "signedDate": "2024-06-13",
+      "yearsTotal": 5,
+      "yearsRemaining": 5,
+      "hasNoTradeClause": true,
+      "capHits": [
+        { "year": 2025, "amount": 35800000, "baseSalary": 13488000, "signingBonus": 10312000, "otherBonuses": 12000000, "isVoidYear": false },
+        { "year": 2026, "amount": 47500000, "baseSalary": 25188000, "signingBonus": 10312000, "otherBonuses": 12000000, "isVoidYear": false },
+        { "year": 2027, "amount": 54000000, "baseSalary": 31688000, "signingBonus": 10312000, "otherBonuses": 12000000, "isVoidYear": false },
+        { "year": 2028, "amount": 58000000, "baseSalary": 35688000, "signingBonus": 10312000, "otherBonuses": 12000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.05,
+        "cpoe": 0.8,
+        "qbr": 55.2,
+        "pffGrade": 68.4,
+        "wins": 5,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "patrick-mahomes",
+      "playerName": "Patrick Mahomes",
+      "teamId": "KC",
+      "contractType": "veteran_backloaded",
+      "totalValue": 450000000,
+      "aav": 45000000,
+      "guaranteedMoney": 141500000,
+      "guaranteedAtSigning": 63000000,
+      "signedDate": "2020-07-06",
+      "yearsTotal": 10,
+      "yearsRemaining": 6,
+      "hasNoTradeClause": true,
+      "capHits": [
+        { "year": 2025, "amount": 30150000, "baseSalary": 1007500, "signingBonus": 2142500, "otherBonuses": 27000000, "isVoidYear": false },
+        { "year": 2026, "amount": 45142500, "baseSalary": 16000000, "signingBonus": 2142500, "otherBonuses": 27000000, "isVoidYear": false },
+        { "year": 2027, "amount": 59142500, "baseSalary": 30000000, "signingBonus": 2142500, "otherBonuses": 27000000, "isVoidYear": false },
+        { "year": 2028, "amount": 63142500, "baseSalary": 34000000, "signingBonus": 2142500, "otherBonuses": 27000000, "isVoidYear": false },
+        { "year": 2029, "amount": 67142500, "baseSalary": 38000000, "signingBonus": 2142500, "otherBonuses": 27000000, "isVoidYear": false },
+        { "year": 2030, "amount": 71142500, "baseSalary": 42000000, "signingBonus": 2142500, "otherBonuses": 27000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.24,
+        "cpoe": 4.8,
+        "qbr": 79.1,
+        "pffGrade": 90.2,
+        "wins": 15,
+        "playoffWins": 2
+      }
+    },
+    {
+      "playerId": "geno-smith",
+      "playerName": "Geno Smith",
+      "teamId": "LV",
+      "contractType": "veteran_market",
+      "totalValue": 75000000,
+      "aav": 37500000,
+      "guaranteedMoney": 66500000,
+      "guaranteedAtSigning": 50000000,
+      "signedDate": "2025-03-15",
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 25000000, "baseSalary": 14500000, "signingBonus": 5500000, "otherBonuses": 5000000, "isVoidYear": false },
+        { "year": 2026, "amount": 50000000, "baseSalary": 39500000, "signingBonus": 5500000, "otherBonuses": 5000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.09,
+        "cpoe": 1.5,
+        "qbr": 60.2,
+        "pffGrade": 72.4,
+        "wins": 10,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "justin-herbert",
+      "playerName": "Justin Herbert",
+      "teamId": "LAC",
+      "contractType": "veteran_market",
+      "totalValue": 262500000,
+      "aav": 52500000,
+      "guaranteedMoney": 218700000,
+      "guaranteedAtSigning": 133700000,
+      "signedDate": "2024-07-25",
+      "yearsTotal": 5,
+      "yearsRemaining": 5,
+      "hasNoTradeClause": true,
+      "capHits": [
+        { "year": 2025, "amount": 37500000, "baseSalary": 1375000, "signingBonus": 12525000, "otherBonuses": 23600000, "isVoidYear": false },
+        { "year": 2026, "amount": 62400000, "baseSalary": 26275000, "signingBonus": 12525000, "otherBonuses": 23600000, "isVoidYear": false },
+        { "year": 2027, "amount": 67400000, "baseSalary": 31275000, "signingBonus": 12525000, "otherBonuses": 23600000, "isVoidYear": false },
+        { "year": 2028, "amount": 72400000, "baseSalary": 36275000, "signingBonus": 12525000, "otherBonuses": 23600000, "isVoidYear": false },
+        { "year": 2029, "amount": 77400000, "baseSalary": 41275000, "signingBonus": 12525000, "otherBonuses": 23600000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.13,
+        "cpoe": 2.5,
+        "qbr": 65.8,
+        "pffGrade": 79.4,
+        "wins": 11,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "matthew-stafford",
+      "playerName": "Matthew Stafford",
+      "teamId": "LAR",
+      "contractType": "veteran_market",
+      "totalValue": 160000000,
+      "aav": 40000000,
+      "guaranteedMoney": 80000000,
+      "guaranteedAtSigning": 63000000,
+      "signedDate": "2022-03-19",
+      "yearsTotal": 4,
+      "yearsRemaining": 1,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 47500000, "baseSalary": 26440000, "signingBonus": 8060000, "otherBonuses": 13000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.14,
+        "cpoe": 2.1,
+        "qbr": 67.2,
+        "pffGrade": 77.8,
+        "wins": 10,
+        "playoffWins": 2
+      }
+    },
+    {
+      "playerId": "tua-tagovailoa",
+      "playerName": "Tua Tagovailoa",
+      "teamId": "MIA",
+      "contractType": "veteran_market",
+      "totalValue": 212400000,
+      "aav": 53100000,
+      "guaranteedMoney": 167171000,
+      "guaranteedAtSigning": 93800000,
+      "signedDate": "2024-07-26",
+      "yearsTotal": 4,
+      "yearsRemaining": 4,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 30700000, "baseSalary": 10000000, "signingBonus": 10700000, "otherBonuses": 10000000, "isVoidYear": false },
+        { "year": 2026, "amount": 47000000, "baseSalary": 26300000, "signingBonus": 10700000, "otherBonuses": 10000000, "isVoidYear": false },
+        { "year": 2027, "amount": 54500000, "baseSalary": 33800000, "signingBonus": 10700000, "otherBonuses": 10000000, "isVoidYear": false },
+        { "year": 2028, "amount": 58000000, "baseSalary": 37300000, "signingBonus": 10700000, "otherBonuses": 10000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.15,
+        "cpoe": 3.2,
+        "qbr": 68.4,
+        "pffGrade": 80.5,
+        "wins": 8,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "jj-mccarthy",
+      "playerName": "J.J. McCarthy",
+      "teamId": "MIN",
+      "contractType": "rookie",
+      "totalValue": 25800000,
+      "aav": 6450000,
+      "guaranteedMoney": 18000000,
+      "guaranteedAtSigning": 18000000,
+      "signedDate": "2024-05-22",
+      "yearsTotal": 4,
+      "yearsRemaining": 3,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 5900000, "baseSalary": 1260000, "signingBonus": 4640000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 7100000, "baseSalary": 2460000, "signingBonus": 4640000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 8300000, "baseSalary": 3660000, "signingBonus": 4640000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2028, "amount": 28500000, "baseSalary": 23860000, "signingBonus": 4640000, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.0,
+        "cpoe": 0.0,
+        "qbr": 0.0,
+        "pffGrade": 0.0,
+        "wins": 0,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "drake-maye",
+      "playerName": "Drake Maye",
+      "teamId": "NE",
+      "contractType": "rookie",
+      "totalValue": 36639764,
+      "aav": 9159941,
+      "guaranteedMoney": 25234000,
+      "guaranteedAtSigning": 25234000,
+      "signedDate": "2024-05-14",
+      "yearsTotal": 4,
+      "yearsRemaining": 3,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 8400000, "baseSalary": 1462000, "signingBonus": 6938000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 9800000, "baseSalary": 2862000, "signingBonus": 6938000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 11200000, "baseSalary": 4262000, "signingBonus": 6938000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2028, "amount": 27000000, "baseSalary": 20062000, "signingBonus": 6938000, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.08,
+        "cpoe": 1.4,
+        "qbr": 58.2,
+        "pffGrade": 70.8,
+        "wins": 7,
+        "playoffWins": 1
+      }
+    },
+    {
+      "playerId": "tyler-shough",
+      "playerName": "Tyler Shough",
+      "teamId": "NO",
+      "contractType": "rookie",
+      "totalValue": 10804728,
+      "aav": 2701182,
+      "guaranteedMoney": 5500000,
+      "guaranteedAtSigning": 5500000,
+      "signedDate": "2025-05-10",
+      "yearsTotal": 4,
+      "yearsRemaining": 4,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 1964496, "baseSalary": 1200000, "signingBonus": 764496, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 2455618, "baseSalary": 1691122, "signingBonus": 764496, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 2946740, "baseSalary": 2182244, "signingBonus": 764496, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2028, "amount": 3437868, "baseSalary": 2673372, "signingBonus": 764496, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.0,
+        "cpoe": 0.0,
+        "qbr": 0.0,
+        "pffGrade": 0.0,
+        "wins": 0,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "jaxon-dart",
+      "playerName": "Jaxon Dart",
+      "teamId": "NYG",
+      "contractType": "rookie",
+      "totalValue": 16977942,
+      "aav": 4244485,
+      "guaranteedMoney": 12500000,
+      "guaranteedAtSigning": 12500000,
+      "signedDate": "2025-05-12",
+      "yearsTotal": 4,
+      "yearsRemaining": 4,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 3086898, "baseSalary": 1100000, "signingBonus": 1986898, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 3858620, "baseSalary": 1871722, "signingBonus": 1986898, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 4630342, "baseSalary": 2643444, "signingBonus": 1986898, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2028, "amount": 5402073, "baseSalary": 3415175, "signingBonus": 1986898, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.0,
+        "cpoe": 0.0,
+        "qbr": 0.0,
+        "pffGrade": 0.0,
+        "wins": 0,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "justin-fields",
+      "playerName": "Justin Fields",
+      "teamId": "NYJ",
+      "contractType": "veteran_discount",
+      "totalValue": 40000000,
+      "aav": 20000000,
+      "guaranteedMoney": 30000000,
+      "guaranteedAtSigning": 20000000,
+      "signedDate": "2025-03-15",
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 15000000, "baseSalary": 8000000, "signingBonus": 5000000, "otherBonuses": 2000000, "isVoidYear": false },
+        { "year": 2026, "amount": 25000000, "baseSalary": 18000000, "signingBonus": 5000000, "otherBonuses": 2000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.05,
+        "cpoe": 0.5,
+        "qbr": 55.8,
+        "pffGrade": 68.2,
+        "wins": 6,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "jalen-hurts",
+      "playerName": "Jalen Hurts",
+      "teamId": "PHI",
+      "contractType": "veteran_backloaded",
+      "totalValue": 255000000,
+      "aav": 51000000,
+      "guaranteedMoney": 179304000,
+      "guaranteedAtSigning": 110000000,
+      "signedDate": "2023-04-17",
+      "yearsTotal": 5,
+      "yearsRemaining": 4,
+      "hasNoTradeClause": true,
+      "capHits": [
+        { "year": 2025, "amount": 14800000, "baseSalary": 1196000, "signingBonus": 4658600, "otherBonuses": 8945400, "isVoidYear": false },
+        { "year": 2026, "amount": 34700000, "baseSalary": 3943200, "signingBonus": 4658600, "otherBonuses": 26098200, "isVoidYear": false },
+        { "year": 2027, "amount": 51000000, "baseSalary": 30867200, "signingBonus": 4658600, "otherBonuses": 15474200, "isVoidYear": false },
+        { "year": 2028, "amount": 55000000, "baseSalary": 38459000, "signingBonus": 4658600, "otherBonuses": 11882400, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.18,
+        "cpoe": 2.3,
+        "qbr": 68.4,
+        "pffGrade": 82.5,
+        "wins": 14,
+        "playoffWins": 4
+      }
+    },
+    {
+      "playerId": "aaron-rodgers",
+      "playerName": "Aaron Rodgers",
+      "teamId": "PIT",
+      "contractType": "veteran_discount",
+      "totalValue": 13650000,
+      "aav": 13650000,
+      "guaranteedMoney": 10000000,
+      "guaranteedAtSigning": 10000000,
+      "signedDate": "2025-03-18",
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 13650000, "baseSalary": 8650000, "signingBonus": 0, "otherBonuses": 5000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.04,
+        "cpoe": 0.8,
+        "qbr": 54.2,
+        "pffGrade": 66.8,
+        "wins": 5,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "brock-purdy",
+      "playerName": "Brock Purdy",
+      "teamId": "SF",
+      "contractType": "veteran_backloaded",
+      "totalValue": 265000000,
+      "aav": 53000000,
+      "guaranteedMoney": 182550000,
+      "guaranteedAtSigning": 125000000,
+      "signedDate": "2025-05-01",
+      "yearsTotal": 5,
+      "yearsRemaining": 5,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 9119253, "baseSalary": 9062253, "signingBonus": 57000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 24796000, "baseSalary": 8000000, "signingBonus": 12796000, "otherBonuses": 4000000, "isVoidYear": false },
+        { "year": 2027, "amount": 30820000, "baseSalary": 14024000, "signingBonus": 12796000, "otherBonuses": 4000000, "isVoidYear": false },
+        { "year": 2028, "amount": 57620000, "baseSalary": 40824000, "signingBonus": 12796000, "otherBonuses": 4000000, "isVoidYear": false },
+        { "year": 2029, "amount": 62620000, "baseSalary": 45824000, "signingBonus": 12796000, "otherBonuses": 4000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.26,
+        "cpoe": 5.2,
+        "qbr": 81.4,
+        "pffGrade": 91.2,
+        "wins": 12,
+        "playoffWins": 2
+      }
+    },
+    {
+      "playerId": "sam-darnold",
+      "playerName": "Sam Darnold",
+      "teamId": "SEA",
+      "contractType": "veteran_market",
+      "totalValue": 100000000,
+      "aav": 33333333,
+      "guaranteedMoney": 63000000,
+      "guaranteedAtSigning": 45000000,
+      "signedDate": "2025-03-12",
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 27500000, "baseSalary": 12500000, "signingBonus": 10000000, "otherBonuses": 5000000, "isVoidYear": false },
+        { "year": 2026, "amount": 35000000, "baseSalary": 20000000, "signingBonus": 10000000, "otherBonuses": 5000000, "isVoidYear": false },
+        { "year": 2027, "amount": 40000000, "baseSalary": 25000000, "signingBonus": 10000000, "otherBonuses": 5000000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.19,
+        "cpoe": 4.1,
+        "qbr": 73.5,
+        "pffGrade": 84.2,
+        "wins": 14,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "baker-mayfield",
+      "playerName": "Baker Mayfield",
+      "teamId": "TB",
+      "contractType": "veteran_market",
+      "totalValue": 100000000,
+      "aav": 33333333,
+      "guaranteedMoney": 50000000,
+      "guaranteedAtSigning": 40000000,
+      "signedDate": "2024-03-14",
+      "yearsTotal": 3,
+      "yearsRemaining": 2,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 28300000, "baseSalary": 11467000, "signingBonus": 8333000, "otherBonuses": 8500000, "isVoidYear": false },
+        { "year": 2026, "amount": 40833000, "baseSalary": 24000000, "signingBonus": 8333000, "otherBonuses": 8500000, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.16,
+        "cpoe": 3.1,
+        "qbr": 69.8,
+        "pffGrade": 80.8,
+        "wins": 10,
+        "playoffWins": 1
+      }
+    },
+    {
+      "playerId": "cam-ward",
+      "playerName": "Cam Ward",
+      "teamId": "TEN",
+      "contractType": "rookie",
+      "totalValue": 48839604,
+      "aav": 12209901,
+      "guaranteedMoney": 35000000,
+      "guaranteedAtSigning": 35000000,
+      "signedDate": "2025-05-10",
+      "yearsTotal": 4,
+      "yearsRemaining": 4,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 8879928, "baseSalary": 1500000, "signingBonus": 7379928, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 10719846, "baseSalary": 3339918, "signingBonus": 7379928, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 13279856, "baseSalary": 5899928, "signingBonus": 7379928, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2028, "amount": 15539874, "baseSalary": 8159946, "signingBonus": 7379928, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.0,
+        "cpoe": 0.0,
+        "qbr": 0.0,
+        "pffGrade": 0.0,
+        "wins": 0,
+        "playoffWins": 0
+      }
+    },
+    {
+      "playerId": "jayden-daniels",
+      "playerName": "Jayden Daniels",
+      "teamId": "WAS",
+      "contractType": "rookie",
+      "totalValue": 37768000,
+      "aav": 9442000,
+      "guaranteedMoney": 24372000,
+      "guaranteedAtSigning": 24372000,
+      "signedDate": "2024-05-15",
+      "yearsTotal": 4,
+      "yearsRemaining": 3,
+      "hasNoTradeClause": false,
+      "capHits": [
+        { "year": 2025, "amount": 3900000, "baseSalary": 1470000, "signingBonus": 2430000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2026, "amount": 5200000, "baseSalary": 2770000, "signingBonus": 2430000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2027, "amount": 6500000, "baseSalary": 4070000, "signingBonus": 2430000, "otherBonuses": 0, "isVoidYear": false },
+        { "year": 2028, "amount": 37280000, "baseSalary": 34850000, "signingBonus": 2430000, "otherBonuses": 0, "isVoidYear": false }
+      ],
+      "performanceMetrics": {
+        "epaPerPlay": 0.22,
+        "cpoe": 4.5,
+        "qbr": 77.2,
+        "pffGrade": 87.8,
+        "wins": 12,
+        "playoffWins": 2
+      }
+    }
+  ],
+  "lastUpdated": "2026-01-17T12:00:00Z",
+  "dataSource": "Over The Cap / Spotrac estimates",
+  "salaryCap2025": 279200000
+}
