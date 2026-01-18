@@ -328,6 +328,7 @@ export interface PlayoffSeasonTeam {
   qbCapPct: number;
   result: number;
   note: string;
+  qbName?: string;
 }
 
 export interface PlayoffSeason {
@@ -363,9 +364,9 @@ export function getScatterDataBySeason(year: number): ScatterDataPoint[] {
     const team = getTeamById(teamResult.teamId);
     if (!team) continue;
 
-    // Find QB name from contracts (best effort - may not match historical QB)
+    // Use historical QB name if available, otherwise fall back to current contract
     const contract = getQBContractByTeamId(teamResult.teamId);
-    const qbName = contract?.playerName || "Unknown QB";
+    const qbName = teamResult.qbName || contract?.playerName || "Unknown QB";
 
     data.push({
       teamId: teamResult.teamId,
