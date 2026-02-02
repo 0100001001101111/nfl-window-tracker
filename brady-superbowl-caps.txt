@@ -1,0 +1,29 @@
+TOM BRADY - ALL 7 SUPER BOWL WINS CAP HIT PERCENTAGES
+=====================================================
+
+Year  Team  Cap Hit      Salary Cap    Cap %    Notes
+----  ----  -----------  -----------  ------   -------------------------
+2002  NE    ~$375,000    $71,100,000   0.53%   Rookie deal, 6th round pick
+2004  NE    $3,100,000   $75,000,000   4.13%   First extension
+2005  NE    $5,000,000   $80,600,000   6.21%   Back-to-back titles
+2015  NE    $14,000,000  $143,280,000  9.77%   Deflategate season
+2017  NE    $14,000,000  $167,000,000  8.38%   28-3 comeback
+2019  NE    $21,542,000  $188,200,000  11.45%  Final NE title
+2021  TB    $12,150,000  $182,500,000  6.66%   Took discount for loaded roster
+
+CAREER SUPER BOWL AVERAGE: 6.73%
+
+KEY INSIGHT:
+- 5 of 7 wins: under 7% cap hit
+- 6 of 7 wins: under 10% cap hit
+- 7 of 7 wins: under 12% cap hit
+- NEVER won above 11.5%
+
+Brady took team-friendly deals his entire career. Even his "highest"
+Super Bowl cap hit (11.45% in 2019) was still in the CAUTION zone,
+not DANGER or CLOSED.
+
+Sources:
+- NBC Sports Boston contract history
+- Over The Cap / Spotrac
+- Pro Football Network salary cap history
